@@ -1,3 +1,1 @@
-Getting started?
-
-This is where all operations are being currently temporarily conducted until we finish the construction of our website.
+<small>Welcome to Gboard clipboard, any text you copy will be saved here.</small>
