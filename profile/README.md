@@ -1,1 +1,1 @@
-Welcome to Gboard clipboard, any text you copy will be saved here.
+All operations are currently being conducted here until the construction of our website is complete. All information needed to get started is available under the Discussions tab. All pinned repositories are live audits and bug bounty programs. Be sure to read and fully understand the README file of these projects before getting started. Reports can be submitted under the Security tab of each repository. Happy Hacking!
